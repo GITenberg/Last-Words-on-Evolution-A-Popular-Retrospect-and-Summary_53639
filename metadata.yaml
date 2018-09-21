@@ -1,5 +1,5 @@
 _repo: Last-Words-on-Evolution-A-Popular-Retrospect-and-Summary_53639
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: McCabe, Joseph
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '521'
     url: http://www.gutenberg.org/2009/agents/521
     wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
+covers:
+- cover_type: archival
+  image_path: 53639-h/images/cover.jpg
 creator:
   author:
     agent_name: Haeckel, Ernst
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2037
     wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53639#Last-Words-on-Evolution-A-Popular-Retrospect-and-Summary
 gutenberg_issued: '2016-11-30'
 gutenberg_type: Text
 identifiers:
